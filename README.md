@@ -1,1 +1,1 @@
-A nextjs Hulu clone using movieDb as the data source. The build use tailwind CSS.
+A nextjs- tailwind Hulu clone using server side rendering for data fetching. The build uses movieDb as the data source.
